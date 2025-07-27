@@ -1,2 +1,0 @@
-# .github
-PXE from Cloud!
